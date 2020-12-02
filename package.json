@@ -4,7 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "e2e": "./node_modules/.bin/nightwatch ./tests"
+    "e2e": "./node_modules/.bin/nightwatch ./tests",
+    "lint": "eslint --ext .js,.vue ./"
   },
   "devDependencies": {
     "chromedriver": "^87.0.1",
