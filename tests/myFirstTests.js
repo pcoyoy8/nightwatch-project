@@ -39,8 +39,6 @@ describe('Nightwatch tests', () => {
       .assert.visible(jokeText)
       .assert.not.value(jokeText, '');
 
-
-
     browser.end();
   });
 });

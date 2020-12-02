@@ -13,6 +13,7 @@
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.22.1",
     "geckodriver": "^1.21.0",
+    "husky": "^4.3.0",
     "nightwatch": "^1.5.1",
     "selenium-server": "^3.141.59"
   },
